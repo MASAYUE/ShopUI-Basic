@@ -1,2 +1,2 @@
 # ShopUI-Basic
-ShopUI แบบเบสิค
+ShopUI แบบเบสิก
