@@ -1,2 +1,2 @@
 # ShopUI-Basic
-ShopUI แบบเบสิกทำเพื่อศึกษา EconomyAPI รวมกับFormUI
+This project make for learn EcomnomyAPI and FormUI.
