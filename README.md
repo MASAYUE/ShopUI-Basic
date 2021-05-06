@@ -1,2 +1,2 @@
 # ShopUI-Basic
-ShopUI แบบเบสิก
+ShopUI แบบเบสิกทำเพื่อศึกษา EconomyAPI รวมกับFormUI
